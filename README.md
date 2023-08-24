@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am a B.tech student <br>currently I am learning full stack web development <br>I am problem solving 
+🎓 B.Tech Student | 💻 Full Stack Web Developer | 🧠 Problem Solver | 🌐 Tech Enthusiast
+
+Welcome to my GitHub profile! I'm currently pursuing my B.Tech degree while immersing myself in the exciting world of Full Stack Web Development. With a mindset wired for problem solving, I thrive on unraveling intricate challenges and devising efficient solutions.
 
 
 ## 🌐 Socials:
